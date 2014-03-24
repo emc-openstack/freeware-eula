@@ -5,11 +5,11 @@ IMPORTANT – PLEASE READ CAREFULLY
 
 This EMC Freeware Software License Agreement (the “Agreement”) is a legal agreement between EMC Corporation, with a principal office at 176 South Street, Hopkinton, MA 01748 USA (“EMC”) and you and the organization on whose behalf you are accessing this Agreement (the “Customer”) and governs Customer’s access to, downloading of, and use of any and all components, associated media, printed materials, documentation, and programming accessed via the EMC software (the “Software”).
 
-By downloading, installing, or using the Software, you are representing to EMC that (i) you are authorized to legally bind the Customer, and (ii) you are agreeing on behalf of the Customer that the terms of this Agreement shall govern the relationship of the parties with regard to the Software. 
+By downloading, installing, or using the Software, you are representing to EMC that (i) you are authorized to legally bind the Customer, and (ii) you are agreeing on behalf of the Customer that the terms of this Agreement shall govern the relationship of the parties with regard to the Software.
 
 If you do not have authority to agree to the terms of this Agreement, or do not accept the terms of this Agreement, discontinue your efforts to download the Software. In such event, no access to, or authorization to download or use the Software, is granted by EMC.
 
-EMC and Customer enter into this Agreement and this Agreement shall become effective on the date on which Customer downloads, installs or uses the Software, whichever occurs first (the “Effective Date”). 
+EMC and Customer enter into this Agreement and this Agreement shall become effective on the date on which Customer downloads, installs or uses the Software, whichever occurs first (the “Effective Date”).
 
 NOW, THEREFORE, in consideration of the premises and obligations contained herein, it is agreed as follows:
 
@@ -17,17 +17,17 @@ NOW, THEREFORE, in consideration of the premises and obligations contained herei
 
 1.1	“Equipment” means the Customer owned EMC branded- i) storage devices, ii) systems, or iii) central processing units that the Software was designed to run on or with.
 
-1.2	“Software” means the free EMC Software (in binary or source form) made available for download by Customer from a designated web site. 
+1.2	“Software” means the free EMC Software (in binary or source form) made available for download by Customer from a designated web site.
 
 2.0	PURPOSE AND SCOPE
 
-2.1	The Software shall be used in accordance with EMC’s instructions and documentation.  The Software is available from EMC to Customer at no charge, but only after Customer agrees to the license terms as contained in this Agreement. 
+2.1	The Software shall be used in accordance with EMC’s instructions and documentation.  The Software is available from EMC to Customer at no charge, but only after Customer agrees to the license terms as contained in this Agreement.
 
-2.2	Under this Agreement, Customer may use the Software on the related Equipment it owns.  
+2.2	Under this Agreement, Customer may use the Software on the related Equipment it owns.
 
 3.0	LICENSE TERMS
 
-3.1	License Grant. EMC grants Customer a license to reproduce, prepare derivative works of, publically display, publically perform, sublicense, and distribute the Software on the Equipment commencing on download for as long as Customer complies with this Agreement. The foregoing licenses shall be non-exclusive, non-transferable, and subject to the restriction that the Software be used solely on or in connection with the Equipment for which it was licensed. EMC may terminate licenses, without liability, if Customer breaches this Agreement and fails to cure within thirty (30) days after receipt of EMC’s written notice thereof. Upon termination, Customer shall cease all use and return or certify destruction of Software (including copies) to EMC. 
+3.1	License Grant. EMC grants Customer a license to reproduce, prepare derivative works of, publically display, publically perform, sublicense, and distribute the Software commencing on download for as long as Customer complies with this Agreement. The foregoing licenses shall be non-exclusive, non-transferable, and subject to the restriction that the Software be used solely on or in connection with the Equipment for which it was licensed. EMC may terminate licenses, without liability, if Customer breaches this Agreement and fails to cure within thirty (30) days after receipt of EMC’s written notice thereof. Upon termination, Customer shall cease all use and return or certify destruction of Software (including copies) to EMC.
 
 3.2	Software is Licensed Only. No title to, or ownership of, the Software is transferred to Customer. Customer shall reproduce and include copyright and other proprietary notices on and in any copies, including but not limited to partial, physical or electronic copies, of the Software.
 
@@ -39,7 +39,7 @@ NOW, THEREFORE, in consideration of the premises and obligations contained herei
 
 4.1 	Delivery of the Software is by download only.
 
-4.2	EMC shall, as necessary, provide Customer with information to download, install and use the Software. 
+4.2	EMC shall, as necessary, provide Customer with information to download, install and use the Software.
 
 5.0	TERM AND TERMINATION
 
@@ -57,7 +57,7 @@ NOW, THEREFORE, in consideration of the premises and obligations contained herei
 
 7.2	THIS SECTION 7.0 STATES EMC’S ENTIRE LIABILITY WITH RESPECT TO ALLEGED INFRINGEMENTS OF INTELLECTUAL PROPERTY RIGHTS BY THE SOFTWARE OR ANY PART OF THEM OR BY ITS OPERATION.
 
-7.3	In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall EMC be liable to Customer (or its sub-licensee) for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this Agreement or out of the use or inability to use the Software (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Customer (or it sub-licensee) has been advised of the possibility of such damages. 
+7.3	In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall EMC be liable to Customer (or its sub-licensee) for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this Agreement or out of the use or inability to use the Software (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Customer (or it sub-licensee) has been advised of the possibility of such damages.
 
 8.0	GENERAL
 
@@ -74,3 +74,4 @@ NOW, THEREFORE, in consideration of the premises and obligations contained herei
 8.6	Independent Contractors - The parties shall act as independent contractors for all purposes under this Agreement. Nothing contained herein shall be deemed to constitute either party as an agent or representative of the other party, or both parties as joint venturers or partners for any purpose. Neither party shall be responsible for the acts or omissions of the other party, and neither party will have authority to speak for, represent or obligate the other party in any way without an authenticated record indicating the prior approval of the other party.
 
 8.7	Separability - If any provision of this Agreement shall be held illegal or unenforceable, such provision shall be deemed separable from, and shall in no way affect or impair the validity or enforceability of, the remaining provisions.
+
